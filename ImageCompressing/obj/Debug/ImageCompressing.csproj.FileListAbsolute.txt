@@ -1,0 +1,10 @@
+C:\Users\rusir\source\repos\ImageCompressing\ImageCompressing\bin\Debug\ImageCompressing.exe.config
+C:\Users\rusir\source\repos\ImageCompressing\ImageCompressing\bin\Debug\ImageCompressing.exe
+C:\Users\rusir\source\repos\ImageCompressing\ImageCompressing\bin\Debug\ImageCompressing.pdb
+C:\Users\rusir\source\repos\ImageCompressing\ImageCompressing\obj\Debug\ImageCompressing.csprojAssemblyReference.cache
+C:\Users\rusir\source\repos\ImageCompressing\ImageCompressing\obj\Debug\ImageCompressing.Form1.resources
+C:\Users\rusir\source\repos\ImageCompressing\ImageCompressing\obj\Debug\ImageCompressing.Properties.Resources.resources
+C:\Users\rusir\source\repos\ImageCompressing\ImageCompressing\obj\Debug\ImageCompressing.csproj.GenerateResource.cache
+C:\Users\rusir\source\repos\ImageCompressing\ImageCompressing\obj\Debug\ImageCompressing.csproj.CoreCompileInputs.cache
+C:\Users\rusir\source\repos\ImageCompressing\ImageCompressing\obj\Debug\ImageCompressing.exe
+C:\Users\rusir\source\repos\ImageCompressing\ImageCompressing\obj\Debug\ImageCompressing.pdb
